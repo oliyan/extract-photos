@@ -24,6 +24,8 @@ A handy python based GUI script for wedding photographers to speed up the post p
  Open this script, Just paste the folder path of A), B) and C) this script will automatically compare and copy the High Res RAW images to the folder C). 
  
  # Road Map
+     - Create windows, mac and linux executables to run this script as a standalone app.
+     
      - Automatically upload the low-quality JPEGs to a cloud service and email the client.
      
      - Integrate this process of extracting selected photos into Lightroom using EXIFTOOL and XMP side car files - so that there is no need to have redundant images stored in Folder -C)
