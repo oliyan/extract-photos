@@ -12,13 +12,13 @@ A handy python based GUI script for wedding photographers to speed up the post p
    
    So, photographers generally compress and convert the RAW photos (Via Lightroom or Darktable) to simple JPEGs of each size 100-200Kb and send the photos via cloud for them to shortlist. 
    
-### How does this tool help photographers. 
+#### The script put into action
     
-    Folder -A) Now you have a Original RAW pics folder called "Main Source" that contain 1000s of RAW images in Full Quality.
+   * Folder -A) Now you have a Original RAW pics folder called "Main Source" that contain 1000s of RAW images in Full Quality.
     
-    Folder -B) And the client has shortlisted 100 photos from the low-quality JPEGs that you sent them. Now you have all those low-quality JPEGs saved in folder called "Selected Photos"
+   * Folder -B) And the client has shortlisted 100 photos from the low-quality JPEGs that you sent them. Now you have all those low-quality JPEGs saved in folder called "Selected Photos"
     
-    Folder -C) You want to extract those 100 short listed photos to a separate folder and edit/retouch the photos before you print them. 
+   * Folder -C) You want to extract those 100 short listed photos to a separate folder and edit/retouch the photos before you print them. 
     
  
  Open this script, Just paste the folder path of A), B) and C) this script will automatically compare and copy the High Res RAW images to the folder C). 
