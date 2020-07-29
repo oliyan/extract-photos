@@ -18,10 +18,10 @@ A handy python based GUI script for wedding photographers to speed up the post p
     
    * Folder -B) And the client has shortlisted 100 photos from the low-quality JPEGs that you sent them. Now you have all those low-quality JPEGs saved in folder called "Selected Photos"
     
-   * Folder -C) You want to extract those 100 short listed photos to a separate folder and edit/retouch the photos before you print them. 
+   * Folder -C) You want to particularly extract those 100 short listed photos from the oringal Folder-A to a separate folder and edit/retouch the photos before you print them. 
     
  
- Open this script, Just paste the folder path of A), B) and C) this script will automatically compare and copy the High Res RAW images to the folder C). 
+ Open this script, Just paste the folder path of A), B) and C) this script will automatically compare and copy the selected High Res RAW images to the folder C). 
  
  # Road Map
      - Create windows, mac and linux executables to run this script as a standalone app.
