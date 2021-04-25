@@ -26,7 +26,7 @@ A handy python based GUI script for wedding photographers to speed up the post p
  # Road Map
      - Create windows, mac and linux executables to run this script as a standalone app.
      
-     - Automatically upload the low-quality JPEGs to a cloud service and email the client.
+     - Automatically upload the low-quality JPEGs to a cloud service (such as nextcloud) and email the client.
      
      - Integrate this process of extracting selected photos into Lightroom using EXIFTOOL and XMP side car files - so that there is no need to have redundant images stored in Folder -C)
     
